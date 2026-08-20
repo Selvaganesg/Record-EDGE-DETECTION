@@ -1,4 +1,6 @@
-# Record-EDGE-DETECTION
+# Record-EDGE-DETECTION 
+## Name:SELVAGANESH B    
+## Reg.No:212224230258
 
 ## Aim
 
